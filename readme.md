@@ -1,2 +1,4 @@
-# Hi, I'm Mohit Kumar
-## Software Developer 
+# Hi
+## I'm Mohit Kumar
+## Full Stack Software Developer 
+
